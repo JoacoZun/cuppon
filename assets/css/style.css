@@ -1,0 +1,88 @@
+.navbar-expand-lg {
+    background-color: #28a745;
+}
+.nav-link .active {
+display: flex;
+justify-content: end;
+}
+.navbar-brand {
+display: flex;
+justify-content: center;
+}
+.card {
+    height: auto;
+      }
+.card-title { 
+      font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-style:normal;
+      color: #707070;
+}
+.card-text {
+color: #707070;
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-style: normal;
+     }
+.card img {
+    height: 11rem;
+ }
+.text-muted {
+    color: #28a745;
+}
+.container-fluid {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: end;
+}
+.Normal {
+    color: #707070;
+    font-size:small;
+    font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-style:normal;
+}
+.Oferta {
+    color: #28a745;
+    font-size:large;
+    font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-style:normal;
+}
+section {
+    background-color: #28a745;
+
+}
+.form-label {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.button {
+    display: flex;
+    justify-content: center;
+}
+.logo-black {
+    height: 70%;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;   
+}
+footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: white;
+    color:#707070;
+    text-align: center;
+    }
